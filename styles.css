@@ -64,15 +64,15 @@ section {
 }
 
 #painting1 {
-    background-image: url('art-images/art1.jpg');
+    background-image: url('art1.jpg');
 }
 
 #painting2 {
-    background-image: url('art-images/art2.jpg');
+    background-image: url('art2.jpg');
 }
 
 #painting3 {
-    background-image: url('art-images/art4.jpg');
+    background-image: url('art4.jpg');
 }
 
 .hero-text {
